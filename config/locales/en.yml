@@ -52,8 +52,8 @@ en:
       new6: "News"
       the: "The"
       by: "by"
-      new7: ""About""
-      new8: ""Contact""
+      new7: "About"
+      new8: "Contact"
     _header:
       home: "Home"
       help: "Help"
